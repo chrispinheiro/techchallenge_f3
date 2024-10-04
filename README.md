@@ -2,10 +2,20 @@
 Tech Challenge - Fase 03
 
 
-Projeto de Fine Tuning referente ao Tech Challenge da fase 03 da Pós em IA para Devs da FIAP
+# Projeto de Fine Tuning referente ao Tech Challenge da fase 03 da Pós em IA para Devs da FIAP
 
+# Grupo 50
+Integrantes:
+Leandro Juvenal Marques
+leandrojuvenal@correios.com.br
 
-Passos:
+Ana Paula de Sa Lopes de Simone
+analopes@correios.com.br
+
+Christiane Pinheiro Campelo da Silva
+christiane@correios.com.br
+
+# Passos:
 
 Download do arquivo de informações de produtos da Amazon (em torno de 2 milhões e 300 mil registros)
 
